@@ -11,5 +11,7 @@ package Registro;
 public class Registro01 {
     public static void main(String[] args) {
         System.out.println("Hola bienvenido a mi repositorio");
+        
+        System.out.println("Que tal amigo, seguimos aquí");
     }
 }
