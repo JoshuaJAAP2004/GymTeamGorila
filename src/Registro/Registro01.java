@@ -25,5 +25,6 @@ public class Registro01 {
         System.out.println("Hola Jairo ");
         
         System.out.println("#TodasSonIguales");
+        System.out.println("asd");
     }
 }
