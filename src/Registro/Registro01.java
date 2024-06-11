@@ -13,5 +13,9 @@ public class Registro01 {
         System.out.println("Hola bienvenido a mi repositorio");
         
         System.out.println("Que tal amigo, seguimos aquí");
+        
+        int a = 2, b = 19;
+        int suma = a+b;
+        System.out.println("La suma es: "+suma);
     }
 }
