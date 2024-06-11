@@ -12,10 +12,12 @@ public class Registro01 {
     public static void main(String[] args) {
         System.out.println("Hola bienvenido a mi repositorio");
         
-        System.out.println("Que tal amigo, seguimos aquí");
+        System.out.println("Que tal amigo, seguimos aquÃ­");
         
         int a = 2, b = 19;
         int suma = a+b;
         System.out.println("La suma es: "+suma);
+
+        System.out.println("Hola Jens ");
     }
 }
