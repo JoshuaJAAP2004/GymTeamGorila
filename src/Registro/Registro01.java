@@ -21,5 +21,7 @@ public class Registro01 {
         System.out.println("Hola Jens ");
 
         System.out.println("Hola Karen ");
+        System.out.println("Hola Joshua ");
+        
     }
 }
