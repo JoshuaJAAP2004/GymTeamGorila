@@ -19,6 +19,7 @@ public class Registro01 {
         System.out.println("La suma es: "+suma);
 
         System.out.println("Hola Jens ");
+        System.out.println("hola");
 
         System.out.println("Hola Karen ");
         System.out.println("Hola Joshua ");
